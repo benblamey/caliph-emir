@@ -1,0 +1,43 @@
+# C# / Visual Studio
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log
+_ReSharper.*
+*.resharper
+*.trx
+TestResults
+
+# C++ / Visual Studio
+Debug
+Release
+ipch
+*.sbr
+*.log
+*.sdf
+
+
+# java specific
+*.class
+build/
+dist/
+
+# tomcat output directory
+WebContent/WEB-INF/classes
+
+# netbeans ignore personal stuff
+nbproject/private/
+
+# generic files to ignore
+*~
+*.lock
+*.DS_Store
+[Tt]humbs.db
+*.swp
+*.out. 
+
+.svn
